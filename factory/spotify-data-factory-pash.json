@@ -1,0 +1,9 @@
+{
+	"name": "spotify-data-factory-pash",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "44bc16ac-e553-4ee7-b746-91eaea2f2f45",
+		"tenantId": "afad7d9d-c117-4243-824a-39c1581713be"
+	}
+}
